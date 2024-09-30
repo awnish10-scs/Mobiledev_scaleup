@@ -1,0 +1,1 @@
+{"name":"ScaleUpAssignmnet","version":"0.0.1","private":true,"scripts":{"start":"node node_modules/react-native/local-cli/cli.js start"},"dependencies":{"@emotion/react":"^11.13.3","@emotion/styled":"^11.13.0","@mui/material":"^6.1.1","react-native":"0.75.3","react-native-paper":"^5.12.5","react-navigation":"^5.0.0"}}
